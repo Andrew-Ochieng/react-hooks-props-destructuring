@@ -1,8 +1,8 @@
 {
 	"workbench.colorCustomizations": {
-		"editor.lineHighlightBackground": "#1073cf2d",
-		"editor.lineHighlightBorder": "#9fced11f",
+		"editor.lineHighlightBackground": "#0c97ce2d",
+		"editor.lineHighlightBorder": "#77a5a81f",
 		"terminal.foreground": "#1a93fd",
-		"terminalCursor.foreground": "#135a05"
+		"terminalCursor.foreground": "#0f5800"
 	}
 }
